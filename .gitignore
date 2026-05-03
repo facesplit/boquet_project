@@ -35,3 +35,6 @@ ai/
 ai/_tools/
 ai/_models_staging/
 ai/ComfyUI_windows_portable/
+!ai/
+ai/*
+!ai/_README_local.md
