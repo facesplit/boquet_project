@@ -2,7 +2,7 @@
 
 ## 🤖 Enabling Real AI Generation
 
-By default, the platform uses `AI_PROVIDER=mock`, so backend returns mock responses. To enable real generation:
+By default, the platform uses `AI_PROVIDER=mock`, so backend returns mock responses. To enable real generation
 
 1. Run ComfyUI locally (see `ai/` and project instructions).
 2. Start or get access to an OpenAI-compatible LLM endpoint (vLLM, LM Studio, llama.cpp server, etc.).
